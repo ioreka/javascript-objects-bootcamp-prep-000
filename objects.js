@@ -1,7 +1,7 @@
 var playlist = {
   converge: 'homewrecker',
-  hit the lights: 'bodybag',
-  taylor swift: 'back to december',
+  hitTheLights: 'bodybag',
+  taylorSwift: 'back to december',
   beyonce: 'pray you catch me'
 };
 

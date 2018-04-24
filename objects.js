@@ -1,8 +1,8 @@
 var playlist = {
-  converge: 'homewrecker',
-  hitTheLights: 'bodybag',
-  taylorSwift: 'back to december',
-  beyonce: 'pray you catch me'
+  'converge': 'homewrecker',
+  'hit the lights': 'bodybag',
+  'taylor swift': 'back to december',
+  'beyonce': 'pray you catch me'
 };
 
 function updatePlaylist(playlist, artistName, songTitle) {

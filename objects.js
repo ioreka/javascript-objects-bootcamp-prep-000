@@ -1,5 +1,5 @@
 var playlist = {
-  'Converge': 'Black Cloud',
+  'Converge': 'Black Cloud'
 };
 
 function updatePlaylist(playlist, artistName, songTitle) {

@@ -5,4 +5,6 @@ var playlist = {
   beyonce: 'pray you catch me'
 };
 
-function updatePlaylist(playlist, [])
+function updatePlaylist(playlist, artistName, songTitle) {
+  
+}

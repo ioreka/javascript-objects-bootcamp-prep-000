@@ -1,7 +1,5 @@
 var playlist = {
-  'My Bloody Valentine': 'Sometimes',
-  'Phil Ochs': 'Heres to the State of Mississippi',
-  'Slowdive':  'Alison'
+  'Converge': 'Black Cloud',
 };
 
 function updatePlaylist(playlist, artistName, songTitle) {
